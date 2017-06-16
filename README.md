@@ -1,5 +1,5 @@
 # hello-world
-This is the first repository I'm making on GitHub
+This is a new version of README.md
 
 Hi, my name is Doug Osgood. 
 I'm going to school at SUNY Oswego to become a technology education teacher,
